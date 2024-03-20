@@ -1,3 +1,2 @@
-# People
 
 todo
