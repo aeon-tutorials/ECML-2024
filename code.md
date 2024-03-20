@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-nav_order: 2
+title: Code
+nav_order: 3
 ---
 
 todo
