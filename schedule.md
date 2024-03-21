@@ -4,7 +4,7 @@ title: Schedule
 nav_order: 2
 ---
 
-(TENTATIVE, SPEAKERS AND TIMES MAY CHANGE)
+(TENTATIVE, SPEAKERS AND TIMES MAY CHANGE. SUMMARY OF EACH SECTION TO COME.)
 
 - Introduction to TSML and aeon, 0-0:15, presented by AB and MM.
 - Classification and Regression, 0:15-0:45, presented by DG and MM.

@@ -1,8 +1,15 @@
 ---
 layout: default
 title: Home
+header: Machine Learning from Time Series
 nav_order: 1
 ---
+
+## Overview
+
+Time series machine learning is a rapidly evolving field that finds areas of application in all domains of machine learning and data science. This tutorial will provide an accessible overview of the recent research in a range of time series tasks, including classification, regression, clustering, forecasting, anomaly detection, segmentation and similarity search. This is a wide ranging introduction to a multitude of research fields. These primers are not meant to be definitive: we could provide a tutorial on each topic in isolation. However, our goal is to raise awareness of the whole research field of time series machine learning and highlight the new and exciting work occurring in each area. Alongside describing tasks and algorithms, we will provide practical examples and comparisons using the \texttt{aeon} toolkit, an open source, \texttt{sklearn} compatible framework for time series machine learning.
+
+## Background
 
 This is a broad overview tutorial aimed at highlighting the large body of recent research into Time Series Machine Learning (TSML) and encouraging the use of these algorithms when presented with time series data. Throughout the talk, we will use \texttt{aeon}\footnote{\url{https://www.aeon-toolkit.org}} as a means of delivering practical examples for some of the algorithms that we introduce. We aim to demonstrate that these approaches are both effective and easily accessible for researchers.  
 
