@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code
+title: Slides & Code
 nav_order: 3
 ---
 

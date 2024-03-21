@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-nav_order: 2
+title: Presenters
+nav_order: 4
 ---
 
 {% include people.html image_path="images/people/MM.png" name="Dr Matthew Middlehurst" affiliation="University of Southampton, United Kingdom" description="Matthew is a senior postdoctoral researcher on the ESPRC aeon grant and is a core developer for the aeon toolkit. His research interests are time series classification and regression, with a keen interest in developing open source software for the field and promoting reproducibility. His group has developed the HIVE-COTE family algorithms for time series classification, which have a good claim to represent state-of-the-art in the field." %}
