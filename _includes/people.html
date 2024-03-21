@@ -8,9 +8,9 @@
     </div>
     <div style="overflow: hidden;">
       {% if include.webpage %}
-        <a href="{{ include.webpage }}"><h3>{{ include.name }}</h3></a>
+        <a href="{{ include.webpage }}"><h3 style="margin: 0;">{{ include.name }}</h3></a>
       {% else %}
-        <h3>{{ include.name }}</h3>
+        <h3 style="margin: 0;">{{ include.name }}</h3>
       {% endif %}
       <h4 style="margin: 0;">{{ include.affiliation }}</h4>
       {{ include.description | markdownify }}
