@@ -3,8 +3,8 @@
       <a href="{{ include.webpage }}"><img src="{{ include.image_path }}" width="200" alt="Picture of {{ include.name }}"></a>
     </div>
     <div style="overflow: hidden;">
-      <a href="{{ include.webpage }}"></a><h3 style="margin: 0;">{{ include.name }}</h3></a>
-      <h4>{{ include.affiliation }}</h4>
+      <a href="{{ include.webpage }}"><h3 style="margin: 0;">{{ include.name }}</h3></a>
+      <h4 style="margin: 0;">{{ include.affiliation }}</h4>
       {{ include.description | markdownify }}
     </div>
 </div>  
