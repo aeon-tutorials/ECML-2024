@@ -1,9 +1,9 @@
 <div style="clear: both;  margin-top: 40px; margin-bottom: 40px;">
     <div style="float: left; margin-right: 40px;">
-      <img src="{{ include.image_path }}" width="200" alt="Picture of {{ include.name }}">
+      <a href="{{ include.webpage }}"><img src="{{ include.image_path }}" width="200" alt="Picture of {{ include.name }}"></a>
     </div>
     <div style="overflow: hidden;">
-      <h3>{{ include.name }}</h3>
+      <a href="{{ include.webpage }}"></a><h3 style="margin: 0;">{{ include.name }}</h3></a>
       <h4>{{ include.affiliation }}</h4>
       {{ include.description | markdownify }}
     </div>
