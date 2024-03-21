@@ -21,10 +21,10 @@
       {%- assign sorted_pages = site.pages | sort: "title" -%}
       {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
       {%- for page in sorted_pages -%}
-          {% assign ext = page.url | split:'.' | last %}
-          {% if ext != "css" %}
-            <a href="{{ page.url | absolute_url }}" class="btn">{{ page.title }}</a>
-          {% endif %}
+        {% assign ext = page.url | split:'.' | last %}
+        {% if ext != "css" %}
+          <a href="{{ page.url | absolute_url }}" class="btn">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
       <a href="https://ecml-aaltd.github.io/aaltd2024/" class="btn">AALTD 2024</a>
       <a href="https://2024.ecmlpkdd.org/" class="btn">ECML-PKDD 2024</a>
