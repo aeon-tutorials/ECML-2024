@@ -6,4 +6,4 @@ nav_order: 3
 
 To come.
 
-![aeon logo](./images/logo/aeon.png)
+<img src="images/logo/aeon.png" alt="aeon logo" width="400"/>
