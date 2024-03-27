@@ -4,7 +4,7 @@ title: References
 nav_order: 6
 ---
 
-\[1\] __Anthony Bagnall__, Jason Lines, Aaron Bostrom, James Large, and Eamonn Keogh. The great time series classification bake off: a review and experimental evaluation of recent algorithmic advances. Data Mining and Knowledge Discovery, 31(3):606–660, 2017.
+\[[1]( https://doi.org/10.1007/s10618-016-0483-9)\] __Anthony Bagnall__, Jason Lines, Aaron Bostrom, James Large, and Eamonn Keogh. The great time series classification bake off: a review and experimental evaluation of recent algorithmic advances. Data Mining and Knowledge Discovery, 31(3):606–660, 2017.
 
 \[2\] __Matthew Middlehurst__, __Patrick Schäfer__, and __Anthony Bagnall__. Bake off redux: a review and experimental evaluation of recent time series classification algorithms. arXiv preprint arXiv:2304.13029, 2023.
 
