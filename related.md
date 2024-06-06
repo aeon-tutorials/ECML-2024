@@ -4,7 +4,7 @@ title: Related Talks & Workshops
 nav_order: 5
 ---
 
-Prior to this we will be giving a tutorial at [KDD 2024](https://kdd2024.kdd.org/) called [A Hands-on Introduction to Time Series Classification and Regression](https://aeon-tutorials.github.io/KDD-2024/), focusing more specifically on the classification and regression learning tasks.
+Prior to this we will be giving a tutorial at [KDD 2024](https://kdd2024.kdd.org/) called [A Hands-on Introduction to Time Series Classification and Regression](https://aeon-tutorials.github.io/KDD-2024/), focusing specifically on the classification and regression learning tasks for time series data.
 
 The tutorial is directly associated with the [Advanced Analytics and Learning on Temporal Data (AALTD)](https://ecml-aaltd.github.io/aaltd2024/) workshop, running for the ninth time at ECML PKDD 2024. Many of the speakers are involved in the organisation of the workshop or regularly submit papers and reviews for it. We recommend that those with an interest in time series machine learning attend the workshop to see the latest in research.
 
