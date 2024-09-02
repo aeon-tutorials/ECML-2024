@@ -4,14 +4,15 @@ title: Schedule
 nav_order: 2
 ---
 
-Tentative, speakers and times may change. Summary of each section to come.
+The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta 2__. The speakers will be available afterwards for Q&A, and questions are always welcome on the [_aeon]_(/https://www.aeon-toolkit.org/) Slack (details on the website).
 
-- Introduction to TSML and aeon, 0-0:15, presented by AB and MM.
-- Classification and Regression, 0:15-0:45, presented by DG and MM.
-- Clustering 0:45-1:15, presented by AB and MM.
-- Forecasting, 1:15-1:30, presented by AB and MM.
-- Deep learning, 1:30-2:00, presented by GF and AF.
+- Introduction to TSML and aeon, 0-0:10, presented by AB
+- Classification and Regression, 0:10-0:40, presented by AB.
+- Clustering,  0:40-1:10, presented by AB.
+- Similarity Search, 1:10-1:30 presented by AG
+- Segmentation, 1:30-2:00, presented by AE/PS.
 - Break, 2:00-2:30
-- Similarity search, 2:30-3:00, presented by AG and AB.
-- Segmentation, 3:00-3:30, presented by AE and PS.
-- Anomaly Detection, 3:30-4:00, presented by SS, PW, and TP.
+- Anomaly Detection, 2:30-3:00, presented by SS
+- Deep learning, 3:00-3:30, presented by AF.
+- Conclusion, 3:30-3:40, presented by AB
+- Q&A, 3:50-4:00
