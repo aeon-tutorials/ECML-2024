@@ -26,9 +26,7 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
   
 - Similarity Search - (15:10, 20 Minutes, by Antoine Guillaume)
 
-  todo
-
-  todo
+  Similarity search is a crucial task in time series machine learning, as any algorithm using a similarity measure might benefit from the computational improvements developed in this field. Particularly, algorithms based on sliding window operations, like shapelets, have a lot to gain from adopting similarity search methods. In this session, we will introduce three different tasks for similarity search, explain how they interact with each other, and present some example use cases. We'll showcase the improvements on computation time of some popular algorithms and talk about the future plans for this module in `aeon`.
   
 - Segmentation - (15:30, 30 Minutes, by Arik Ermshaus and Patrick Schäfer)
 
