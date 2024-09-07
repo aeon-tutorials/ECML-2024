@@ -26,15 +26,13 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
   
 - Similarity Search - (15:10, 20 Minutes, by Antoine Guillaume)
 
-  todo
-
-  todo
+  Similarity search is a crucial task in time series machine learning, as any algorithm using a similarity measure might benefit from the computational improvements developed in this field. Particularly, algorithms based on sliding window operations, like shapelets, have a lot to gain from adopting similarity search methods. In this session, we will introduce three different tasks for similarity search, explain how they interact with each other, and present some example use cases. We'll showcase the improvements on computation time of some popular algorithms and talk about the future plans for this module in `aeon`.
   
 - Segmentation - (15:30, 30 Minutes, by Arik Ermshaus and Patrick Schäfer)
 
-  todo
+  The study of natural and human-made processes often yields extensive sequences of time series data. These processes frequently exhibit multiple states, such as the operational modes of a machine, wherein transitions between states correspond to shifts in the distribution or shape of measured values. Time series segmentation (TSS) endeavours to detect these transitions post-hoc, thereby inferring changes in the underlying data-generating process. TSS is typically framed as an unsupervised learning problem aimed at identifying segments characterised by distinct statistical properties. While numerous TSS algorithms have been proposed, many are tailored to specific domains. Conversely, only a handful of domain-agnostic TSS algorithms are available. We will spotlight state-of-the-art domain-agnostic segmentation algorithms and scrutinise advantages and limitations.
 
-  todo
+  [Slides todo](todo) & [Notebook (file) todo](todo) & [Notebook (Google Colab) todo](todo) 
 
 - Break (16:00, 30 Minutes)
 
@@ -46,9 +44,9 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
   
 - Deep learning - (17:00, 40 Minutes, by Ali Ismail-Fawaz)
 
-  todo
+  Deep learning is a subset of machine learning that uses multi-layer neural networks to automatically learn complex patterns in data. In time series tasks, it is applied to classification, clustering, regression, anomaly detection, and rapid prototyping. It is highly effective, as it can model complex temporal dependencies without requiring manual feature engineering, making it a powerful tool for time series analysis.
 
-  todo
+  [Slides todo](todo) & [Notebook (file) todo](todo) & [Notebook (Google Colab) todo](todo)
 
 - Conclusion - (17:40, 10 Minutes, by Anthony Bagnall)
 
