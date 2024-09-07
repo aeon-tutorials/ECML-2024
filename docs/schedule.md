@@ -44,9 +44,9 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
   
 - Deep learning - (17:00, 40 Minutes, by Ali Ismail-Fawaz)
 
-  todo
+  Deep learning is a subset of machine learning that uses multi-layer neural networks to automatically learn complex patterns in data. In time series tasks, it is applied to classification, clustering, regression, anomaly detection, and rapid prototyping. It is highly effective, as it can model complex temporal dependencies without requiring manual feature engineering, making it a powerful tool for time series analysis.
 
-  todo
+  [Slides todo](todo) & [Notebook (file) todo](todo) & [Notebook (Google Colab) todo](todo)
 
 - Conclusion - (17:40, 10 Minutes, by Anthony Bagnall)
 
