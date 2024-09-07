@@ -6,7 +6,7 @@ nav_order: 2
 
 The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta 2__. The speakers will be available afterwards for Q&A, and questions are always welcome on the [_aeon_](/https://www.aeon-toolkit.org/) Slack (details on the website).
 
-- Introduction to Time Series Machine Learning - (14:00, 10 Minutes, by Anthony Bagnall)
+- Introduction to Time Series Machine Learning and _aeon_ - (14:00, 10 Minutes, by Anthony Bagnall)
 
   Special considerations must be given when it comes to processing and creating models from time series data. To begin we will be a brief overview of the time series data and the different kinds of time series data one may find. We will also briefly introduce the _aeon_ toolkit, which is used in our code examples.
 
