@@ -38,9 +38,9 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
 
 - Anomaly Detection - (16:30, 30 Minutes, by Sebastian Schmidl)
 
-  todo
+  Time series anomaly detection is an important task in many domains, such as detecting structural defects in aircraft turbines, faulty states in water treatment plants, or anomalous heartbeats in healthcare monitoring. Researchers have developed numerous automatic methods to analyze and detect anomalous points and subsequences in time series data. However, many approaches are tailored to specific domains and there is no overall best domain-agnostic method. In this part of the tutorial, we will introduce the task of anomaly detection in time series data and give an overview of available anomaly detection methods and benchmarks.
 
-  todo
+  [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part6_anomaly_detection.pptx) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part6_anomaly_detection.ipynb) & [Notebook (Google Colab) todo](todo) 
   
 - Deep learning - (17:00, 40 Minutes, by Ali Ismail-Fawaz)
 
