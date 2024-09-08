@@ -20,7 +20,7 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
 
 - Clustering - (14:40, 30 Minutes, by Anthony Bagnall)
 
-  todo
+  We introduce Time Series Clustering (TSCL) as a field, with a focus on time series distances in conjunction with algorithms such as KMeans and KMedoids.
 
   [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part3_clustering.pptx) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part3_clustering.ipynb) & [Notebook (Google Colab)](https://colab.research.google.com/github/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part3_clustering.ipynb)  
   
@@ -52,8 +52,6 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
   [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part7_deep_learning.pdf) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part7_deep_learning_based.ipynb) & [Notebook (Google Colab)](https://colab.research.google.com/github/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part7_deep_learning_based.ipynb)  
 
 - Conclusion - (17:40, 10 Minutes, by Anthony Bagnall)
-
-  TODO
   
   [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part8_conclusion.pptx)
 

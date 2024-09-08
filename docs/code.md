@@ -19,6 +19,4 @@ Links to individual slides and notebooks are provided on the schedule page, as w
 - Part 7 [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part7_deep_learning.pdf) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part7_deep_learning_based.ipynb) & [Notebook (Google Colab)](https://colab.research.google.com/github/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part7_deep_learning_based.ipynb)  
 - Part 8 [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part8_conclusion.pptx)
 
-The following will launch the notebooks on binder. A view-only version is available via nbviewer.
-
 <img src="images/logo/aeon.png" alt="aeon logo" width="400"/>
