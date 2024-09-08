@@ -32,7 +32,7 @@ The tutorial is on __Monday, September 09__ starting at __14:00__ in room __Zeta
 
   The study of natural and human-made processes often yields extensive sequences of time series data. These processes frequently exhibit multiple states, such as the operational modes of a machine, wherein transitions between states correspond to shifts in the distribution or shape of measured values. Time series segmentation (TSS) endeavours to detect these transitions post-hoc, thereby inferring changes in the underlying data-generating process. TSS is typically framed as an unsupervised learning problem aimed at identifying segments characterised by distinct statistical properties. While numerous TSS algorithms have been proposed, many are tailored to specific domains. Conversely, only a handful of domain-agnostic TSS algorithms are available. We will spotlight state-of-the-art domain-agnostic segmentation algorithms and scrutinise advantages and limitations.
 
-  [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part7_segmentation.pptx) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part7_segmentation.ipynb) & [Notebook (Google Colab) todo](todo) 
+  [Slides](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Slides/part5_segmentation.pptx) & [Notebook (file)](https://github.com/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/Notebooks/part5_segmentation.ipynb) & [Notebook (Google Colab) todo](todo) 
 
 
 - Break (16:00, 30 Minutes)
